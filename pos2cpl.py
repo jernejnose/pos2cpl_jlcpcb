@@ -1,4 +1,3 @@
-import sys
 import argparse
 
 parser = argparse.ArgumentParser(description='Convert .pos file from KiCad to JLCPCB cpl file')
